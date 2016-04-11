@@ -1,0 +1,19 @@
+{
+  "name": "ts-train",
+  "version": "1.0.0",
+  "description": "TypeScript Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenkou25/TypeScriptTraining.git"
+  },
+  "author": "kenkou25",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/kenkou25/TypeScriptTraining/issues"
+  },
+  "homepage": "https://github.com/kenkou25/TypeScriptTraining#readme"
+}
